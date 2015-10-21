@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package populatelist;
+package fx.controller;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
@@ -32,6 +32,10 @@ public class PopulateList extends Application {
    */
   public static void main(String[] args) {
     launch(args);
+  }
+  
+  public void FXMLDocumentController() {
+      
   }
   
 }
